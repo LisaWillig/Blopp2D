@@ -1,0 +1,82 @@
+Sprites.png
+size: 207, 319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blopp
+  rotate: false
+  xy: 111, 32
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+Child_Evil
+  rotate: false
+  xy: 0, 32
+  size: 111, 73
+  orig: 111, 73
+  offset: 0, 0
+  index: -1
+Planet1
+  rotate: false
+  xy: 100, 125
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+planet2
+  rotate: false
+  xy: 0, 125
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+Planet3
+  rotate: false
+  xy: 100, 222
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+Planet4
+  rotate: false
+  xy: 0, 222
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+SVGs/Blopp
+  rotate: false
+  xy: 96, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+SVGs/Child_Evil
+  rotate: false
+  xy: 128, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+SVGs/Child_Nicel
+  rotate: false
+  xy: 64, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+SVGs/Planet_Evil
+  rotate: false
+  xy: 0, 0
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+SVGs/Planet_Stripes
+  rotate: false
+  xy: 32, 0
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

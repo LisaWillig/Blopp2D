@@ -1,0 +1,26 @@
+AnimSprites.png
+size: 100, 33
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blopp1
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Blopp2
+  rotate: false
+  xy: 32, 0
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Blopp3
+  rotate: false
+  xy: 67, 0
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
